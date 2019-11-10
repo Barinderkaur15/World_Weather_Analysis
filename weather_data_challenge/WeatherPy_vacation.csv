@@ -1,0 +1,466 @@
+City_ID,City,Country,Max Temp,Weather Description,Lat,Lng,Hotel Name
+4,Laguna,BZ,82.4,light rain,16.17,-88.94,Laguna Maya Lodge
+5,Hofn,IS,45.79,light rain,64.25,-15.21,Hótel Höfn
+6,Rikitea,PF,73.24,light rain,-23.12,-134.97,Pension Maro'i
+22,Alofi,NU,71.6,light rain,-19.06,-169.92,Taloa Heights
+23,Finschhafen,PG,79.92,light rain,-6.6,147.85,
+37,Saldanha,PT,46.15,light rain,41.42,-6.55,
+42,Hithadhoo,MV,82.22,light rain,-0.6,73.08,Scoop Guest House
+47,Kaitangata,NZ,52.0,light rain,-46.28,169.85,
+49,Mataura,NZ,48.99,moderate rain,-46.19,168.86,Ellie's Villa
+70,Manokwari,ID,73.33,light rain,-0.87,134.08,Swiss Belhotel Manokwari
+77,Stuttgart,DE,48.0,light rain,48.78,9.18,Hotel Motel One Stuttgart-Hauptbahnhof
+100,Burnie,AU,51.01,light rain,-41.05,145.91,Beachfront Voyager Motor Inn
+106,Kaniama,CD,77.43,moderate rain,-7.57,24.18,
+112,Tevaitoa,PF,79.74,light rain,-16.78,-151.5,Hôtel Raiatea Lodge
+142,Labuhan,ID,75.7,light rain,-2.54,115.51,Pondok Indah Gula Habang
+153,Faanui,PF,79.88,light rain,-16.48,-151.75,Bora-Bora Pearl Beach Resort & Spa
+158,Kavieng,PG,82.51,moderate rain,-2.57,150.8,Nusa Island Retreat
+159,Mendi,ET,69.35,moderate rain,9.8,35.1,Jline Nus Hotel
+206,Kandrian,PG,73.4,moderate rain,-6.21,149.55,
+213,Santiago,PH,71.06,heavy intensity rain,16.69,121.54,GraceHill EconoSuites
+246,Kalmunai,LK,82.89,light rain,7.42,81.82,VS Villa
+257,Tuatapere,NZ,48.0,light rain,-46.13,167.69,Ron and Tony's Bed & Breakfast
+273,Sabha,LY,82.96,light rain,27.03,14.43,محطة سفر غات
+279,San Francisco,CO,54.95,light rain,1.17,-76.88,Estación de Policía San Francisco
+281,Lorengau,PG,82.13,moderate rain,-2.02,147.27,Lorengau Harbourside Hotel
+284,Frederico Westphalen,BR,81.66,light rain,-27.36,-53.4,Hotel Palace Frederico
+292,Watsa,CD,74.62,moderate rain,3.04,29.53,Hôtel Le Pacifique
+304,Vilhena,BR,69.46,moderate rain,-12.74,-60.15,Hotel Mirage
+316,Canoinhas,BR,74.03,light rain,-26.18,-50.4,Santa Catarina Plaza Hotel
+329,Sumbe,AO,85.46,light rain,-11.2,13.84,Hotel Ritz Sumbe
+379,Weligama,LK,76.89,light rain,5.97,80.42,Weligama Bay Resort
+382,Sola,TZ,82.74,light rain,-3.17,33.8,Peace Hotel
+399,Shimoda,JP,52.0,light rain,34.7,138.93,Shimoda Tokyu Hotel
+402,Shakiso,ET,63.59,moderate rain,5.77,38.9,Heluya International Hotel
+406,Teahupoo,PF,78.8,light rain,-17.83,-149.27,Vanira Lodge
+415,Kasongo,CD,82.9,light rain,-4.43,26.67,Kago Hotel
+425,Inirida,CO,83.21,moderate rain,3.87,-67.92,Fuente del Guania Hotel de Lujo
+435,Tingloy,PH,78.01,light rain,13.66,120.87,Sea's Spring Resort
+448,Bad Sachsa,DE,46.0,light rain,51.6,10.55,Göbel's Vital Hotel
+476,Sao Gabriel Da Cachoeira,BR,87.8,moderate rain,-0.13,-67.09,Alarne - Área De Lazer Do Alto Rio Negro
+479,Belmonte,PT,55.0,light rain,40.36,-7.35,Pousada Convento de Belmonte
+489,Lannion,FR,50.0,light rain,48.73,-3.46,Hotel Arcadia
+490,Tautira,PF,78.8,light rain,-17.73,-149.15,Pension Oaoa
+497,Shiyan,CN,55.99,light rain,32.65,110.78,Karen International Hotel
+506,Dukat,AL,63.0,moderate rain,40.25,19.57,Llogora Tourist Village
+517,Laguna,BZ,82.4,light rain,16.17,-88.94,Laguna Maya Lodge
+518,Hofn,IS,45.79,light rain,64.25,-15.21,Hótel Höfn
+519,Rikitea,PF,73.24,light rain,-23.12,-134.97,Pension Maro'i
+535,Alofi,NU,71.6,light rain,-19.06,-169.92,Taloa Heights
+536,Finschhafen,PG,79.92,light rain,-6.6,147.85,
+550,Saldanha,PT,46.15,light rain,41.42,-6.55,
+555,Hithadhoo,MV,82.22,light rain,-0.6,73.08,Scoop Guest House
+560,Kaitangata,NZ,52.0,light rain,-46.28,169.85,
+562,Mataura,NZ,48.99,moderate rain,-46.19,168.86,Ellie's Villa
+583,Manokwari,ID,73.33,light rain,-0.87,134.08,Swiss Belhotel Manokwari
+590,Stuttgart,DE,48.0,light rain,48.78,9.18,Hotel Motel One Stuttgart-Hauptbahnhof
+613,Burnie,AU,51.01,light rain,-41.05,145.91,Beachfront Voyager Motor Inn
+619,Kaniama,CD,77.43,moderate rain,-7.57,24.18,
+625,Tevaitoa,PF,79.74,light rain,-16.78,-151.5,Hôtel Raiatea Lodge
+655,Labuhan,ID,75.7,light rain,-2.54,115.51,Pondok Indah Gula Habang
+666,Faanui,PF,79.88,light rain,-16.48,-151.75,Bora-Bora Pearl Beach Resort & Spa
+671,Kavieng,PG,82.51,moderate rain,-2.57,150.8,Nusa Island Retreat
+672,Mendi,ET,69.35,moderate rain,9.8,35.1,Jline Nus Hotel
+719,Kandrian,PG,73.4,moderate rain,-6.21,149.55,
+726,Santiago,PH,71.06,heavy intensity rain,16.69,121.54,GraceHill EconoSuites
+759,Kalmunai,LK,82.89,light rain,7.42,81.82,VS Villa
+770,Tuatapere,NZ,48.0,light rain,-46.13,167.69,Ron and Tony's Bed & Breakfast
+786,Sabha,LY,82.96,light rain,27.03,14.43,محطة سفر غات
+792,San Francisco,CO,54.95,light rain,1.17,-76.88,Estación de Policía San Francisco
+794,Lorengau,PG,82.13,moderate rain,-2.02,147.27,Lorengau Harbourside Hotel
+797,Frederico Westphalen,BR,81.66,light rain,-27.36,-53.4,Hotel Palace Frederico
+805,Watsa,CD,74.62,moderate rain,3.04,29.53,Hôtel Le Pacifique
+817,Vilhena,BR,69.46,moderate rain,-12.74,-60.15,Hotel Mirage
+829,Canoinhas,BR,74.03,light rain,-26.18,-50.4,Santa Catarina Plaza Hotel
+842,Sumbe,AO,85.46,light rain,-11.2,13.84,Hotel Ritz Sumbe
+892,Weligama,LK,76.89,light rain,5.97,80.42,Weligama Bay Resort
+895,Sola,TZ,82.74,light rain,-3.17,33.8,Peace Hotel
+912,Shimoda,JP,52.0,light rain,34.7,138.93,Shimoda Tokyu Hotel
+915,Shakiso,ET,63.59,moderate rain,5.77,38.9,Heluya International Hotel
+919,Teahupoo,PF,78.8,light rain,-17.83,-149.27,Vanira Lodge
+928,Kasongo,CD,82.9,light rain,-4.43,26.67,Kago Hotel
+938,Inirida,CO,83.21,moderate rain,3.87,-67.92,Fuente del Guania Hotel de Lujo
+948,Tingloy,PH,78.01,light rain,13.66,120.87,Sea's Spring Resort
+961,Bad Sachsa,DE,46.0,light rain,51.6,10.55,Göbel's Vital Hotel
+989,Sao Gabriel Da Cachoeira,BR,87.8,moderate rain,-0.13,-67.09,Alarne - Área De Lazer Do Alto Rio Negro
+992,Belmonte,PT,55.0,light rain,40.36,-7.35,Pousada Convento de Belmonte
+1002,Lannion,FR,50.0,light rain,48.73,-3.46,Hotel Arcadia
+1003,Tautira,PF,78.8,light rain,-17.73,-149.15,Pension Oaoa
+1010,Shiyan,CN,55.99,light rain,32.65,110.78,Karen International Hotel
+1019,Dukat,AL,63.0,moderate rain,40.25,19.57,Llogora Tourist Village
+1027,Kapaa,US,71.6,moderate rain,22.08,-159.32,Courtyard by Marriott Kaua'i at Coconut Beach
+1028,Olinda,AU,54.0,light rain,-37.84,145.39,Mary Cards Coach House
+1029,Zetel,DE,45.0,light rain,53.42,7.97,Friesische Wehde
+1030,Redmond,US,50.0,light rain,47.67,-122.12,Seattle Marriott Redmond
+1031,Immokalee,US,71.01,moderate rain,26.42,-81.42,Seminole Casino Hotel Immokalee
+1034,Kapaa,US,71.6,moderate rain,22.08,-159.32,Courtyard by Marriott Kaua'i at Coconut Beach
+1035,Olinda,AU,54.0,light rain,-37.84,145.39,Mary Cards Coach House
+1036,Zetel,DE,45.0,light rain,53.42,7.97,Friesische Wehde
+1037,Redmond,US,50.0,light rain,47.67,-122.12,Seattle Marriott Redmond
+1038,Immokalee,US,71.01,moderate rain,26.42,-81.42,Seminole Casino Hotel Immokalee
+1045,Hofn,IS,45.32,light rain,64.25,-15.21,Hótel Höfn
+1046,Rikitea,PF,73.42,light rain,-23.12,-134.97,Pension Maro'i
+1063,Finschhafen,PG,78.17,moderate rain,-6.6,147.85,
+1085,Kapaa,US,71.6,moderate rain,22.08,-159.32,Courtyard by Marriott Kaua'i at Coconut Beach
+1087,Kaitangata,NZ,51.01,moderate rain,-46.28,169.85,
+1089,Mataura,NZ,48.99,moderate rain,-46.19,168.86,Ellie's Villa
+1110,Manokwari,ID,74.1,light rain,-0.87,134.08,Swiss Belhotel Manokwari
+1137,Majene,ID,76.69,light rain,-3.54,118.97,Kost Putri RABBANI
+1138,Olinda,AU,54.0,light rain,-37.84,145.39,Mary Cards Coach House
+1139,Tangshan,CN,53.01,light rain,39.63,118.17,Civil Affairs Hotel
+1140,Burnie,AU,51.01,light rain,-41.05,145.91,Beachfront Voyager Motor Inn
+1152,Tevaitoa,PF,80.4,light rain,-16.78,-151.5,Hôtel Raiatea Lodge
+1160,San Quintin,PH,72.5,light rain,17.54,120.52,San Quintin River Resort
+1170,Naze,NG,82.69,light rain,5.43,7.07,Female Hostel C
+1193,Faanui,PF,80.8,light rain,-16.48,-151.75,Bora-Bora Pearl Beach Resort & Spa
+1198,Kavieng,PG,79.39,moderate rain,-2.57,150.8,Nusa Island Retreat
+1199,Mendi,ET,66.67,light rain,9.8,35.1,Jline Nus Hotel
+1232,Richards Bay,ZA,69.26,light rain,-28.77,32.06,BON Hotel Waterfront Richards Bay
+1238,Zetel,DE,45.0,light rain,53.42,7.97,Friesische Wehde
+1241,Ko Samui,TH,81.28,moderate rain,9.54,99.94,"The Passage Samui Villas & Resort, Thailand"
+1246,Kandrian,PG,72.91,light rain,-6.21,149.55,
+1253,Santiago,PH,70.38,heavy intensity rain,16.69,121.54,GraceHill EconoSuites
+1286,Kalmunai,LK,81.77,light rain,7.42,81.82,VS Villa
+1297,Tuatapere,NZ,48.99,moderate rain,-46.13,167.69,Ron and Tony's Bed & Breakfast
+1303,Redmond,US,50.0,light rain,47.67,-122.12,Seattle Marriott Redmond
+1308,Oriximina,BR,89.37,light rain,-1.77,-55.87,Pousada Tia Amélia
+1319,San Francisco,CO,56.48,light rain,1.17,-76.88,Estación de Policía San Francisco
+1321,Lorengau,PG,83.37,light rain,-2.02,147.27,Lorengau Harbourside Hotel
+1324,Frederico Westphalen,BR,83.52,moderate rain,-27.36,-53.4,Hotel Palace Frederico
+1330,Immokalee,US,71.01,moderate rain,26.42,-81.42,Seminole Casino Hotel Immokalee
+1332,Watsa,CD,69.1,light rain,3.04,29.53,Hôtel Le Pacifique
+1349,Meulaboh,ID,81.86,light rain,4.14,96.13,Kost Pria
+1356,Canoinhas,BR,81.21,light rain,-26.18,-50.4,Santa Catarina Plaza Hotel
+1369,Sumbe,AO,80.26,light rain,-11.2,13.84,Hotel Ritz Sumbe
+1385,Kudahuvadhoo,MV,82.87,light rain,2.67,72.89,Orange Inn Maldives
+1389,Inhambane,MZ,74.79,light rain,-23.87,35.38,MHL Turismo SA
+1422,Sola,TZ,75.83,light rain,-3.17,33.8,Peace Hotel
+1442,Shakiso,ET,59.76,light rain,5.77,38.9,Heluya International Hotel
+1453,Qinhuangdao,CN,52.09,light rain,39.94,119.59,Qinhuangdao Peninsula Seasons Hotel And Apartment
+1455,Kasongo,CD,74.53,light rain,-4.43,26.67,Kago Hotel
+1465,Inirida,CO,83.8,moderate rain,3.87,-67.92,Fuente del Guania Hotel de Lujo
+1471,Soreang,ID,70.45,light rain,-7.03,107.52,Sutan Raja Hotel and Convention Centre
+1475,Tingloy,PH,77.0,light rain,13.66,120.87,Sea's Spring Resort
+1488,Bad Sachsa,DE,45.0,light rain,51.6,10.55,Göbel's Vital Hotel
+1519,Belmonte,PT,54.0,overcast clouds,40.36,-7.35,Pousada Convento de Belmonte
+1546,Dukat,AL,63.0,moderate rain,40.25,19.57,Llogora Tourist Village
+1551,Sishui,CN,59.0,light rain,35.66,117.27,Central Garden Hotel
+1558,Hofn,IS,45.32,light rain,64.25,-15.21,Hótel Höfn
+1559,Rikitea,PF,73.42,light rain,-23.12,-134.97,Pension Maro'i
+1576,Finschhafen,PG,78.17,moderate rain,-6.6,147.85,
+1598,Kapaa,US,71.6,moderate rain,22.08,-159.32,Courtyard by Marriott Kaua'i at Coconut Beach
+1600,Kaitangata,NZ,51.01,moderate rain,-46.28,169.85,
+1602,Mataura,NZ,48.99,moderate rain,-46.19,168.86,Ellie's Villa
+1623,Manokwari,ID,74.1,light rain,-0.87,134.08,Swiss Belhotel Manokwari
+1650,Majene,ID,76.69,light rain,-3.54,118.97,Kost Putri RABBANI
+1651,Olinda,AU,54.0,light rain,-37.84,145.39,Mary Cards Coach House
+1652,Tangshan,CN,53.01,light rain,39.63,118.17,Civil Affairs Hotel
+1653,Burnie,AU,51.01,light rain,-41.05,145.91,Beachfront Voyager Motor Inn
+1665,Tevaitoa,PF,80.4,light rain,-16.78,-151.5,Hôtel Raiatea Lodge
+1673,San Quintin,PH,72.5,light rain,17.54,120.52,San Quintin River Resort
+1706,Faanui,PF,80.8,light rain,-16.48,-151.75,Bora-Bora Pearl Beach Resort & Spa
+1711,Kavieng,PG,79.39,moderate rain,-2.57,150.8,Nusa Island Retreat
+1712,Mendi,ET,66.67,light rain,9.8,35.1,Jline Nus Hotel
+1745,Richards Bay,ZA,69.26,light rain,-28.77,32.06,BON Hotel Waterfront Richards Bay
+1751,Zetel,DE,45.0,light rain,53.42,7.97,Friesische Wehde
+1754,Ko Samui,TH,81.28,moderate rain,9.54,99.94,"The Passage Samui Villas & Resort, Thailand"
+1759,Kandrian,PG,72.91,light rain,-6.21,149.55,
+1766,Santiago,PH,70.38,heavy intensity rain,16.69,121.54,GraceHill EconoSuites
+1799,Kalmunai,LK,81.77,light rain,7.42,81.82,VS Villa
+1810,Tuatapere,NZ,48.99,moderate rain,-46.13,167.69,Ron and Tony's Bed & Breakfast
+1816,Redmond,US,50.0,light rain,47.67,-122.12,Seattle Marriott Redmond
+1821,Oriximina,BR,89.37,light rain,-1.77,-55.87,Pousada Tia Amélia
+1832,San Francisco,CO,56.48,light rain,1.17,-76.88,Estación de Policía San Francisco
+1834,Lorengau,PG,83.37,light rain,-2.02,147.27,Lorengau Harbourside Hotel
+1837,Frederico Westphalen,BR,83.52,moderate rain,-27.36,-53.4,Hotel Palace Frederico
+1843,Immokalee,US,71.6,light intensity drizzle,26.42,-81.42,Seminole Casino Hotel Immokalee
+1845,Watsa,CD,69.1,light rain,3.04,29.53,Hôtel Le Pacifique
+1862,Meulaboh,ID,81.86,light rain,4.14,96.13,Kost Pria
+1869,Canoinhas,BR,81.21,light rain,-26.18,-50.4,Santa Catarina Plaza Hotel
+1882,Sumbe,AO,80.26,light rain,-11.2,13.84,Hotel Ritz Sumbe
+1898,Kudahuvadhoo,MV,82.87,light rain,2.67,72.89,Orange Inn Maldives
+1902,Inhambane,MZ,74.79,light rain,-23.87,35.38,MHL Turismo SA
+1935,Sola,TZ,75.83,light rain,-3.17,33.8,Peace Hotel
+1955,Shakiso,ET,59.76,light rain,5.77,38.9,Heluya International Hotel
+1966,Qinhuangdao,CN,52.09,light rain,39.94,119.59,Qinhuangdao Peninsula Seasons Hotel And Apartment
+1968,Kasongo,CD,74.53,light rain,-4.43,26.67,Kago Hotel
+1978,Inirida,CO,83.8,moderate rain,3.87,-67.92,Fuente del Guania Hotel de Lujo
+1984,Soreang,ID,70.45,light rain,-7.03,107.52,Sutan Raja Hotel and Convention Centre
+1988,Tingloy,PH,77.0,light rain,13.66,120.87,Sea's Spring Resort
+2001,Bad Sachsa,DE,45.0,light rain,51.6,10.55,Göbel's Vital Hotel
+2032,Belmonte,PT,54.0,overcast clouds,40.36,-7.35,Pousada Convento de Belmonte
+2042,Lannion,FR,48.99,light rain,48.73,-3.46,Hotel Arcadia
+2059,Dukat,AL,63.0,moderate rain,40.25,19.57,Llogora Tourist Village
+2064,Sishui,CN,59.0,light rain,35.66,117.27,Central Garden Hotel
+2071,Hofn,IS,45.32,light rain,64.25,-15.21,Hótel Höfn
+2072,Rikitea,PF,73.42,light rain,-23.12,-134.97,Pension Maro'i
+2089,Finschhafen,PG,78.17,moderate rain,-6.6,147.85,
+2096,Avarua,CK,73.4,light rain,-21.21,-159.78,Paradise Inn
+2111,Kapaa,US,71.6,moderate rain,22.08,-159.32,Courtyard by Marriott Kaua'i at Coconut Beach
+2113,Kaitangata,NZ,50.0,moderate rain,-46.28,169.85,
+2115,Mataura,NZ,48.99,moderate rain,-46.19,168.86,Ellie's Villa
+2136,Manokwari,ID,74.1,light rain,-0.87,134.08,Swiss Belhotel Manokwari
+2163,Majene,ID,76.69,light rain,-3.54,118.97,Kost Putri RABBANI
+2164,Olinda,AU,54.0,light rain,-37.84,145.39,Mary Cards Coach House
+2165,Tangshan,CN,57.99,light rain,39.63,118.17,Civil Affairs Hotel
+2166,Burnie,AU,51.01,light rain,-41.05,145.91,Beachfront Voyager Motor Inn
+2178,Tevaitoa,PF,80.4,light rain,-16.78,-151.5,Hôtel Raiatea Lodge
+2186,San Quintin,PH,72.5,light rain,17.54,120.52,San Quintin River Resort
+2196,Naze,NG,82.69,light rain,5.43,7.07,Female Hostel C
+2219,Faanui,PF,80.8,light rain,-16.48,-151.75,Bora-Bora Pearl Beach Resort & Spa
+2224,Kavieng,PG,79.39,moderate rain,-2.57,150.8,Nusa Island Retreat
+2225,Mendi,ET,66.67,light rain,9.8,35.1,Jline Nus Hotel
+2258,Richards Bay,ZA,69.26,light rain,-28.77,32.06,BON Hotel Waterfront Richards Bay
+2267,Ko Samui,TH,81.28,moderate rain,9.54,99.94,"The Passage Samui Villas & Resort, Thailand"
+2272,Kandrian,PG,72.91,light rain,-6.21,149.55,
+2279,Santiago,PH,70.38,heavy intensity rain,16.69,121.54,GraceHill EconoSuites
+2312,Kalmunai,LK,81.77,light rain,7.42,81.82,VS Villa
+2323,Tuatapere,NZ,48.99,moderate rain,-46.13,167.69,Ron and Tony's Bed & Breakfast
+2329,Redmond,US,50.0,light rain,47.67,-122.12,Seattle Marriott Redmond
+2334,Oriximina,BR,89.37,light rain,-1.77,-55.87,Pousada Tia Amélia
+2345,San Francisco,CO,56.48,light rain,1.17,-76.88,Estación de Policía San Francisco
+2347,Lorengau,PG,83.37,light rain,-2.02,147.27,Lorengau Harbourside Hotel
+2350,Frederico Westphalen,BR,83.52,moderate rain,-27.36,-53.4,Hotel Palace Frederico
+2358,Watsa,CD,69.1,light rain,3.04,29.53,Hôtel Le Pacifique
+2367,Nexo,DK,48.2,light rain,55.06,15.13,Strandhotel Balka Søbad
+2375,Meulaboh,ID,81.86,light rain,4.14,96.13,Kost Pria
+2382,Canoinhas,BR,81.21,light rain,-26.18,-50.4,Santa Catarina Plaza Hotel
+2395,Sumbe,AO,80.26,light rain,-11.2,13.84,Hotel Ritz Sumbe
+2411,Kudahuvadhoo,MV,82.87,light rain,2.67,72.89,Orange Inn Maldives
+2448,Sola,TZ,75.83,light rain,-3.17,33.8,Peace Hotel
+2468,Shakiso,ET,59.76,light rain,5.77,38.9,Heluya International Hotel
+2479,Qinhuangdao,CN,52.09,light rain,39.94,119.59,Qinhuangdao Peninsula Seasons Hotel And Apartment
+2481,Kasongo,CD,74.53,light rain,-4.43,26.67,Kago Hotel
+2491,Inirida,CO,83.8,moderate rain,3.87,-67.92,Fuente del Guania Hotel de Lujo
+2497,Soreang,ID,70.45,light rain,-7.03,107.52,Sutan Raja Hotel and Convention Centre
+2501,Tingloy,PH,77.0,light rain,13.66,120.87,Sea's Spring Resort
+2545,Belmonte,PT,53.01,overcast clouds,40.36,-7.35,Pousada Convento de Belmonte
+2555,Lannion,FR,48.99,light rain,48.73,-3.46,Hotel Arcadia
+2572,Dukat,AL,63.0,moderate rain,40.25,19.57,Llogora Tourist Village
+2577,Sishui,CN,59.0,light rain,35.66,117.27,Central Garden Hotel
+2584,Hofn,IS,45.43,light rain,64.25,-15.21,Hótel Höfn
+2585,Rikitea,PF,71.92,light rain,-23.12,-134.97,Pension Maro'i
+2595,Kilindoni,TZ,81.86,light rain,-7.91,39.67,Bustani B&B
+2602,Finschhafen,PG,79.81,light rain,-6.6,147.85,
+2609,Avarua,CK,77.0,light rain,-21.21,-159.78,Paradise Inn
+2621,Hithadhoo,MV,81.05,light rain,-0.6,73.08,Scoop Guest House
+2624,Kapaa,US,69.8,thunderstorm with rain,22.08,-159.32,Courtyard by Marriott Kaua'i at Coconut Beach
+2626,Kaitangata,NZ,50.0,moderate rain,-46.28,169.85,
+2628,Mataura,NZ,48.99,moderate rain,-46.19,168.86,Ellie's Villa
+2635,East London,ZA,65.75,light rain,-33.02,27.91,Tu Casa
+2639,Port Alfred,ZA,66.0,light rain,-33.59,26.89,The Halyards Hotel
+2643,Bambanglipuro,ID,72.84,light rain,-7.95,110.28,Puri Brata
+2649,Manokwari,ID,74.46,light rain,-0.87,134.08,Swiss Belhotel Manokwari
+2662,Hobart,AU,51.01,light intensity shower rain,-42.88,147.33,St Ives Apartments
+2678,Tangshan,CN,52.11,moderate rain,39.63,118.17,Civil Affairs Hotel
+2679,Burnie,AU,51.01,light rain,-41.05,145.91,Beachfront Voyager Motor Inn
+2683,Chimore,BO,83.84,moderate rain,-16.98,-65.13,Bichito
+2691,Tevaitoa,PF,80.42,light rain,-16.78,-151.5,Hôtel Raiatea Lodge
+2699,San Quintin,PH,72.68,light rain,17.54,120.52,San Quintin River Resort
+2709,Naze,NG,76.8,moderate rain,5.43,7.07,Female Hostel C
+2732,Faanui,PF,81.3,light rain,-16.48,-151.75,Bora-Bora Pearl Beach Resort & Spa
+2737,Kavieng,PG,79.77,light rain,-2.57,150.8,Nusa Island Retreat
+2741,Ponta Do Sol,BR,72.01,moderate rain,-20.63,-46.0,Hotel Escarpas do Lago
+2745,Mount Gambier,AU,52.2,light rain,-37.83,140.78,Best Western Southgate Motel
+2780,Ko Samui,TH,82.04,moderate rain,9.54,99.94,"The Passage Samui Villas & Resort, Thailand"
+2785,Kandrian,PG,72.75,moderate rain,-6.21,149.55,
+2792,Santiago,PH,70.12,moderate rain,16.69,121.54,GraceHill EconoSuites
+2806,Kingori,TZ,70.72,light rain,-3.38,37.02,Kia Lodge
+2825,Kalmunai,LK,80.53,light rain,7.42,81.82,VS Villa
+2836,Tuatapere,NZ,48.99,light rain,-46.13,167.69,Ron and Tony's Bed & Breakfast
+2840,Pereira Barreto,BR,77.77,light rain,-20.64,-51.11,Hotel Samambaia
+2842,Redmond,US,51.01,light rain,47.67,-122.12,Seattle Marriott Redmond
+2847,Oriximina,BR,88.34,light rain,-1.77,-55.87,Pousada Tia Amélia
+2851,San Patricio,PY,82.83,light rain,-26.98,-56.83,Posada Doña Antonia
+2852,Sabha,LY,76.66,light rain,27.03,14.43,محطة سفر غات
+2856,Sibolga,ID,71.74,light rain,1.74,98.78,Hotel Syariah CN Darussalam
+2857,Waipawa,NZ,65.05,light rain,-39.94,176.59,T A Commercial Hotel
+2858,San Francisco,CO,59.22,light rain,1.17,-76.88,Estación de Policía San Francisco
+2860,Lorengau,PG,82.22,moderate rain,-2.02,147.27,Lorengau Harbourside Hotel
+2863,Frederico Westphalen,BR,86.0,light rain,-27.36,-53.4,Hotel Palace Frederico
+2880,Nexo,DK,48.2,light rain,55.06,15.13,Strandhotel Balka Søbad
+2888,Meulaboh,ID,81.19,light rain,4.14,96.13,Kost Pria
+2895,Canoinhas,BR,69.22,moderate rain,-26.18,-50.4,Santa Catarina Plaza Hotel
+2913,Port Blair,IN,80.94,light rain,11.67,92.75,Fortune Resort Bay Island
+2924,Kudahuvadhoo,MV,81.95,moderate rain,2.67,72.89,Orange Inn Maldives
+2935,Biak,ID,80.92,light rain,-0.91,122.88,Villa Mas Biak
+2942,Paso De Los Toros,UY,73.9,light rain,-32.81,-56.52,Complejo Isabelino
+2961,Sola,TZ,72.18,light rain,-3.17,33.8,Peace Hotel
+2981,Shakiso,ET,59.09,moderate rain,5.77,38.9,Heluya International Hotel
+2992,Qinhuangdao,CN,50.9,moderate rain,39.94,119.59,Qinhuangdao Peninsula Seasons Hotel And Apartment
+3004,Inirida,CO,84.74,light rain,3.87,-67.92,Fuente del Guania Hotel de Lujo
+3010,Soreang,ID,69.17,light rain,-7.03,107.52,Sutan Raja Hotel and Convention Centre
+3011,Eldoret,KE,57.78,light rain,0.52,35.27,Flora Homes
+3031,La Rioja,AR,75.92,light rain,-29.41,-66.86,Hotel Libertador
+3058,Belmonte,PT,51.01,overcast clouds,40.36,-7.35,Pousada Convento de Belmonte
+3068,Lannion,FR,50.0,light rain,48.73,-3.46,Hotel Arcadia
+3085,Dukat,AL,61.0,moderate rain,40.25,19.57,Llogora Tourist Village
+3097,Hofn,IS,45.43,light rain,64.25,-15.21,Hótel Höfn
+3098,Rikitea,PF,71.92,light rain,-23.12,-134.97,Pension Maro'i
+3108,Kilindoni,TZ,81.86,light rain,-7.91,39.67,Bustani B&B
+3115,Finschhafen,PG,79.81,light rain,-6.6,147.85,
+3122,Avarua,CK,77.0,light rain,-21.21,-159.78,Paradise Inn
+3134,Hithadhoo,MV,81.05,light rain,-0.6,73.08,Scoop Guest House
+3137,Kapaa,US,69.8,thunderstorm with rain,22.08,-159.32,Courtyard by Marriott Kaua'i at Coconut Beach
+3139,Kaitangata,NZ,50.0,moderate rain,-46.28,169.85,
+3141,Mataura,NZ,48.99,moderate rain,-46.19,168.86,Ellie's Villa
+3148,East London,ZA,65.75,light rain,-33.02,27.91,Tu Casa
+3152,Port Alfred,ZA,66.0,light rain,-33.59,26.89,The Halyards Hotel
+3156,Bambanglipuro,ID,72.84,light rain,-7.95,110.28,Puri Brata
+3162,Manokwari,ID,74.46,light rain,-0.87,134.08,Swiss Belhotel Manokwari
+3175,Hobart,AU,51.01,light intensity shower rain,-42.88,147.33,St Ives Apartments
+3191,Tangshan,CN,52.11,moderate rain,39.63,118.17,Civil Affairs Hotel
+3192,Burnie,AU,51.01,light rain,-41.05,145.91,Beachfront Voyager Motor Inn
+3196,Chimore,BO,83.84,moderate rain,-16.98,-65.13,Bichito
+3204,Tevaitoa,PF,80.42,light rain,-16.78,-151.5,Hôtel Raiatea Lodge
+3212,San Quintin,PH,72.68,light rain,17.54,120.52,San Quintin River Resort
+3222,Naze,NG,76.8,moderate rain,5.43,7.07,Female Hostel C
+3245,Faanui,PF,81.3,light rain,-16.48,-151.75,Bora-Bora Pearl Beach Resort & Spa
+3250,Kavieng,PG,79.77,light rain,-2.57,150.8,Nusa Island Retreat
+3254,Ponta Do Sol,BR,72.01,moderate rain,-20.63,-46.0,Hotel Escarpas do Lago
+3258,Mount Gambier,AU,52.2,light rain,-37.83,140.78,Best Western Southgate Motel
+3293,Ko Samui,TH,82.04,moderate rain,9.54,99.94,"The Passage Samui Villas & Resort, Thailand"
+3298,Kandrian,PG,72.75,moderate rain,-6.21,149.55,
+3305,Santiago,PH,70.12,moderate rain,16.69,121.54,GraceHill EconoSuites
+3319,Kingori,TZ,70.72,light rain,-3.38,37.02,Kia Lodge
+3338,Kalmunai,LK,80.53,light rain,7.42,81.82,VS Villa
+3349,Tuatapere,NZ,48.99,light rain,-46.13,167.69,Ron and Tony's Bed & Breakfast
+3353,Pereira Barreto,BR,77.77,light rain,-20.64,-51.11,Hotel Samambaia
+3355,Redmond,US,51.01,light rain,47.67,-122.12,Seattle Marriott Redmond
+3360,Oriximina,BR,88.34,light rain,-1.77,-55.87,Pousada Tia Amélia
+3364,San Patricio,PY,82.83,light rain,-26.98,-56.83,Posada Doña Antonia
+3365,Sabha,LY,76.66,light rain,27.03,14.43,محطة سفر غات
+3369,Sibolga,ID,71.74,light rain,1.74,98.78,Hotel Syariah CN Darussalam
+3370,Waipawa,NZ,65.05,light rain,-39.94,176.59,T A Commercial Hotel
+3371,San Francisco,CO,59.22,light rain,1.17,-76.88,Estación de Policía San Francisco
+3373,Lorengau,PG,82.22,moderate rain,-2.02,147.27,Lorengau Harbourside Hotel
+3376,Frederico Westphalen,BR,86.0,light rain,-27.36,-53.4,Hotel Palace Frederico
+3393,Nexo,DK,48.2,light rain,55.06,15.13,Strandhotel Balka Søbad
+3401,Meulaboh,ID,81.19,light rain,4.14,96.13,Kost Pria
+3408,Canoinhas,BR,69.22,moderate rain,-26.18,-50.4,Santa Catarina Plaza Hotel
+3426,Port Blair,IN,80.94,light rain,11.67,92.75,Fortune Resort Bay Island
+3437,Kudahuvadhoo,MV,81.95,moderate rain,2.67,72.89,Orange Inn Maldives
+3448,Biak,ID,80.92,light rain,-0.91,122.88,Villa Mas Biak
+3455,Paso De Los Toros,UY,73.9,light rain,-32.81,-56.52,Complejo Isabelino
+3474,Sola,TZ,72.18,light rain,-3.17,33.8,Peace Hotel
+3494,Shakiso,ET,59.09,moderate rain,5.77,38.9,Heluya International Hotel
+3505,Qinhuangdao,CN,50.9,moderate rain,39.94,119.59,Qinhuangdao Peninsula Seasons Hotel And Apartment
+3517,Inirida,CO,84.74,light rain,3.87,-67.92,Fuente del Guania Hotel de Lujo
+3523,Soreang,ID,69.17,light rain,-7.03,107.52,Sutan Raja Hotel and Convention Centre
+3524,Eldoret,KE,57.78,light rain,0.52,35.27,Flora Homes
+3544,La Rioja,AR,75.92,light rain,-29.41,-66.86,Hotel Libertador
+3571,Belmonte,PT,51.01,overcast clouds,40.36,-7.35,Pousada Convento de Belmonte
+3581,Lannion,FR,50.0,light rain,48.73,-3.46,Hotel Arcadia
+3598,Dukat,AL,61.0,moderate rain,40.25,19.57,Llogora Tourist Village
+3610,Hofn,IS,45.63,light rain,64.25,-15.21,Hótel Höfn
+3611,Rikitea,PF,71.92,light rain,-23.12,-134.97,Pension Maro'i
+3621,Kilindoni,TZ,81.86,light rain,-7.91,39.67,Bustani B&B
+3628,Finschhafen,PG,79.81,light rain,-6.6,147.85,
+3647,Hithadhoo,MV,81.05,light rain,-0.6,73.08,Scoop Guest House
+3650,Kapaa,US,69.8,thunderstorm with rain,22.08,-159.32,Courtyard by Marriott Kaua'i at Coconut Beach
+3652,Kaitangata,NZ,50.0,moderate rain,-46.28,169.85,
+3654,Mataura,NZ,48.99,moderate rain,-46.19,168.86,Ellie's Villa
+3661,East London,ZA,66.34,light rain,-33.02,27.91,Tu Casa
+3665,Port Alfred,ZA,66.0,overcast clouds,-33.59,26.89,The Halyards Hotel
+3669,Bambanglipuro,ID,72.84,light rain,-7.95,110.28,Puri Brata
+3675,Manokwari,ID,74.46,light rain,-0.87,134.08,Swiss Belhotel Manokwari
+3704,Tangshan,CN,52.11,moderate rain,39.63,118.17,Civil Affairs Hotel
+3705,Burnie,AU,53.01,light rain,-41.05,145.91,Beachfront Voyager Motor Inn
+3709,Chimore,BO,83.84,moderate rain,-16.98,-65.13,Bichito
+3717,Tevaitoa,PF,80.42,light rain,-16.78,-151.5,Hôtel Raiatea Lodge
+3735,Naze,NG,77.18,moderate rain,5.43,7.07,Female Hostel C
+3763,Kavieng,PG,78.01,heavy intensity rain,-2.57,150.8,Nusa Island Retreat
+3767,Ponta Do Sol,BR,69.98,moderate rain,-20.63,-46.0,Hotel Escarpas do Lago
+3797,Richards Bay,ZA,69.17,light rain,-28.77,32.06,BON Hotel Waterfront Richards Bay
+3803,Zetel,DE,45.0,light rain,53.42,7.97,Friesische Wehde
+3806,Ko Samui,TH,82.04,moderate rain,9.54,99.94,"The Passage Samui Villas & Resort, Thailand"
+3811,Kandrian,PG,73.04,light rain,-6.21,149.55,
+3818,Santiago,PH,70.12,moderate rain,16.69,121.54,GraceHill EconoSuites
+3851,Kalmunai,LK,80.53,light rain,7.42,81.82,VS Villa
+3862,Tuatapere,NZ,48.99,light rain,-46.13,167.69,Ron and Tony's Bed & Breakfast
+3866,Pereira Barreto,BR,77.77,light rain,-20.64,-51.11,Hotel Samambaia
+3868,Redmond,US,51.01,light rain,47.67,-122.12,Seattle Marriott Redmond
+3873,Oriximina,BR,84.61,light rain,-1.77,-55.87,Pousada Tia Amélia
+3877,San Patricio,PY,82.83,light rain,-26.98,-56.83,Posada Doña Antonia
+3878,Sabha,LY,76.66,light rain,27.03,14.43,محطة سفر غات
+3882,Sibolga,ID,71.74,light rain,1.74,98.78,Hotel Syariah CN Darussalam
+3883,Waipawa,NZ,65.05,light rain,-39.94,176.59,T A Commercial Hotel
+3886,Lorengau,PG,82.22,moderate rain,-2.02,147.27,Lorengau Harbourside Hotel
+3889,Frederico Westphalen,BR,86.0,light rain,-27.36,-53.4,Hotel Palace Frederico
+3906,Nexo,DK,48.2,light rain,55.06,15.13,Strandhotel Balka Søbad
+3914,Meulaboh,ID,81.19,light rain,4.14,96.13,Kost Pria
+3921,Canoinhas,BR,68.88,moderate rain,-26.18,-50.4,Santa Catarina Plaza Hotel
+3939,Port Blair,IN,81.32,light rain,11.67,92.75,Fortune Resort Bay Island
+3950,Kudahuvadhoo,MV,81.95,moderate rain,2.67,72.89,Orange Inn Maldives
+3961,Biak,ID,79.07,moderate rain,-0.91,122.88,Villa Mas Biak
+3968,Paso De Los Toros,UY,73.9,light rain,-32.81,-56.52,Complejo Isabelino
+3987,Sola,TZ,71.74,light rain,-3.17,33.8,Peace Hotel
+4004,Shimoda,JP,50.0,light rain,34.7,138.93,Shimoda Tokyu Hotel
+4007,Shakiso,ET,59.09,moderate rain,5.77,38.9,Heluya International Hotel
+4018,Qinhuangdao,CN,50.54,moderate rain,39.94,119.59,Qinhuangdao Peninsula Seasons Hotel And Apartment
+4030,Inirida,CO,84.74,light rain,3.87,-67.92,Fuente del Guania Hotel de Lujo
+4036,Soreang,ID,69.17,light rain,-7.03,107.52,Sutan Raja Hotel and Convention Centre
+4037,Eldoret,KE,57.78,light rain,0.52,35.27,Flora Homes
+4039,Balabac,PH,80.02,light rain,7.99,117.06,Sing and Swing Lodge
+4057,La Rioja,AR,75.92,light rain,-29.41,-66.86,Hotel Libertador
+4084,Belmonte,PT,52.0,overcast clouds,40.36,-7.35,Pousada Convento de Belmonte
+4094,Lannion,FR,50.0,light rain,48.73,-3.46,Hotel Arcadia
+4111,Dukat,AL,57.99,moderate rain,40.25,19.57,Llogora Tourist Village
+4123,Hofn,IS,45.63,light rain,64.25,-15.21,Hótel Höfn
+4124,Rikitea,PF,71.92,light rain,-23.12,-134.97,Pension Maro'i
+4134,Kilindoni,TZ,81.86,light rain,-7.91,39.67,Bustani B&B
+4141,Finschhafen,PG,79.81,light rain,-6.6,147.85,
+4160,Hithadhoo,MV,81.05,light rain,-0.6,73.08,Scoop Guest House
+4163,Kapaa,US,71.6,heavy intensity rain,22.08,-159.32,Courtyard by Marriott Kaua'i at Coconut Beach
+4165,Kaitangata,NZ,50.0,moderate rain,-46.28,169.85,
+4167,Mataura,NZ,48.99,moderate rain,-46.19,168.86,Ellie's Villa
+4174,East London,ZA,66.34,light rain,-33.02,27.91,Tu Casa
+4178,Port Alfred,ZA,66.0,overcast clouds,-33.59,26.89,The Halyards Hotel
+4182,Bambanglipuro,ID,72.84,light rain,-7.95,110.28,Puri Brata
+4188,Manokwari,ID,74.46,light rain,-0.87,134.08,Swiss Belhotel Manokwari
+4201,Hobart,AU,52.0,light rain,-42.88,147.33,St Ives Apartments
+4216,Olinda,AU,54.0,light rain,-37.84,145.39,Mary Cards Coach House
+4217,Tangshan,CN,52.11,moderate rain,39.63,118.17,Civil Affairs Hotel
+4218,Burnie,AU,54.0,light rain,-41.05,145.91,Beachfront Voyager Motor Inn
+4222,Chimore,BO,83.84,moderate rain,-16.98,-65.13,Bichito
+4230,Tevaitoa,PF,80.42,light rain,-16.78,-151.5,Hôtel Raiatea Lodge
+4248,Naze,NG,77.18,moderate rain,5.43,7.07,Female Hostel C
+4276,Kavieng,PG,78.01,heavy intensity rain,-2.57,150.8,Nusa Island Retreat
+4280,Ponta Do Sol,BR,69.98,moderate rain,-20.63,-46.0,Hotel Escarpas do Lago
+4310,Richards Bay,ZA,69.17,light rain,-28.77,32.06,BON Hotel Waterfront Richards Bay
+4316,Zetel,DE,45.0,light rain,53.42,7.97,Friesische Wehde
+4319,Ko Samui,TH,82.04,moderate rain,9.54,99.94,"The Passage Samui Villas & Resort, Thailand"
+4324,Kandrian,PG,73.04,light rain,-6.21,149.55,
+4326,Nueva Loja,EC,84.2,light rain,0.08,-76.88,Hotel Restaurant D'Mario
+4331,Santiago,PH,70.12,moderate rain,16.69,121.54,GraceHill EconoSuites
+4364,Kalmunai,LK,80.53,light rain,7.42,81.82,VS Villa
+4375,Tuatapere,NZ,48.99,light rain,-46.13,167.69,Ron and Tony's Bed & Breakfast
+4379,Pereira Barreto,BR,77.77,light rain,-20.64,-51.11,Hotel Samambaia
+4381,Redmond,US,51.01,light rain,47.67,-122.12,Seattle Marriott Redmond
+4386,Oriximina,BR,84.61,light rain,-1.77,-55.87,Pousada Tia Amélia
+4390,San Patricio,PY,82.83,light rain,-26.98,-56.83,Posada Doña Antonia
+4391,Sabha,LY,76.66,light rain,27.03,14.43,محطة سفر غات
+4395,Sibolga,ID,71.74,light rain,1.74,98.78,Hotel Syariah CN Darussalam
+4396,Waipawa,NZ,65.05,light rain,-39.94,176.59,T A Commercial Hotel
+4399,Lorengau,PG,82.22,moderate rain,-2.02,147.27,Lorengau Harbourside Hotel
+4402,Frederico Westphalen,BR,79.48,light rain,-27.36,-53.4,Hotel Palace Frederico
+4419,Nexo,DK,48.2,light rain,55.06,15.13,Strandhotel Balka Søbad
+4427,Meulaboh,ID,81.19,light rain,4.14,96.13,Kost Pria
+4434,Canoinhas,BR,68.88,moderate rain,-26.18,-50.4,Santa Catarina Plaza Hotel
+4452,Port Blair,IN,81.32,light rain,11.67,92.75,Fortune Resort Bay Island
+4463,Kudahuvadhoo,MV,81.95,moderate rain,2.67,72.89,Orange Inn Maldives
+4474,Biak,ID,79.07,moderate rain,-0.91,122.88,Villa Mas Biak
+4481,Paso De Los Toros,UY,73.9,light rain,-32.81,-56.52,Complejo Isabelino
+4500,Sola,TZ,71.74,light rain,-3.17,33.8,Peace Hotel
+4517,Shimoda,JP,48.0,light rain,34.7,138.93,Shimoda Tokyu Hotel
+4520,Shakiso,ET,59.09,moderate rain,5.77,38.9,Heluya International Hotel
+4531,Qinhuangdao,CN,50.54,moderate rain,39.94,119.59,Qinhuangdao Peninsula Seasons Hotel And Apartment
+4543,Inirida,CO,84.74,light rain,3.87,-67.92,Fuente del Guania Hotel de Lujo
+4549,Soreang,ID,69.17,light rain,-7.03,107.52,Sutan Raja Hotel and Convention Centre
+4550,Eldoret,KE,57.78,light rain,0.52,35.27,Flora Homes
+4552,Balabac,PH,80.02,light rain,7.99,117.06,Sing and Swing Lodge
+4570,La Rioja,AR,75.92,light rain,-29.41,-66.86,Hotel Libertador
+4597,Belmonte,PT,51.01,overcast clouds,40.36,-7.35,Pousada Convento de Belmonte
+4607,Lannion,FR,50.0,light rain,48.73,-3.46,Hotel Arcadia
+4624,Dukat,AL,57.0,moderate rain,40.25,19.57,Llogora Tourist Village
